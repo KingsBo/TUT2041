@@ -10,3 +10,7 @@ Welcome to the tutorial hub! Here you will find the slides and extra resources f
 ### Week 2
 * [View Slides Here](slides/week2/index.html)
 * [View/Download Resources](https://github.com/KingsBo/TUT2041/tree/main/code/week2)
+
+### Week 3
+* [View Slides Here](slides/week3/index.html)
+* [View/Download Resources](https://github.com/KingsBo/TUT2041/tree/main/code/week3)
