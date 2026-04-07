@@ -18,3 +18,15 @@ Welcome to the tutorial hub! Here you will find the slides and extra resources f
 ### Week 4
 * [View Slides Here](slides/week4/index.html)
 * [View/Download Resources](https://github.com/KingsBo/TUT2041/tree/main/code/week4)
+
+### Week 5
+* [View Slides Here](slides/week5/index.html)
+* [View/Download Resources](https://github.com/KingsBo/TUT2041/tree/main/code/week5)
+
+### Week 7
+* [View Slides Here](slides/week7/index.html)
+* [View/Download Resources](https://github.com/KingsBo/TUT2041/tree/main/code/week7)
+
+### Week 8
+* [View Slides Here](slides/week8/index.html)
+* [View/Download Resources](https://github.com/KingsBo/TUT2041/tree/main/code/week8)
